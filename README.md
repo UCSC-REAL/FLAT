@@ -1,8 +1,7 @@
 <div align="center">
-
+# FLAT: LLM Unlearning via Loss Adjustment with Only Forget Data 
 <a href='https://github.com/UCSC-REAL/FLAT'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://www.arxiv.org/pdf/2410.11143'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
-# FLAT: LLM Unlearning via Loss Adjustment with Only Forget Data 
 
 FLAT is a "flat" loss adjustment approach which addresses these issues by maximizing f-divergence between the available template answer and the forget answer only w.r.t. the forget data. The variational form of the defined f -divergence theoretically provides a way of loss adjustment by assigning different importance weights for the learning w.r.t. template responses and the forgetting of responses subject to unlearning. Empirical results demonstrate that our approach not only achieves superior unlearning performance compared to existing methods but also minimizes the impact on the model’s retained capabilities, ensuring high utility across diverse tasks, including copyrighted content unlearning on Harry Potter dataset and MUSE Benchmark, and entity unlearning on the TOFU dataset.
 
