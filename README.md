@@ -1,5 +1,6 @@
 <div align="center">
 # FLAT: LLM Unlearning via Loss Adjustment with Only Forget Data 
+
 <a href='https://github.com/UCSC-REAL/FLAT'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://www.arxiv.org/pdf/2410.11143'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
